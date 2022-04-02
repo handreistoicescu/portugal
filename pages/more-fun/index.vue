@@ -1,5 +1,5 @@
 <template>
   <marquee>
-    <h1>This is fun</h1>
+    <h1>This is MORE fun</h1>
   </marquee>
 </template>
